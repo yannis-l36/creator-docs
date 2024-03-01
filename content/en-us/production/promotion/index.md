@@ -33,7 +33,7 @@ The following table details promotional methods for experiences on the platform.
 	</tr>
 	<tr>
 		<td>**Time-Based Events**</td>
-		<td>Invite users back into your experiences with engaging time-based events that display on your experience's main details page. You can schedule up to 10 events at a time through the Events Platform, and users have the ability to opt-in to notifications for each event.<br /><br />For more information, see [Events Platform](../../production/promotion/events-platform.md).</td>
+		<td>Invite users back into your experiences with engaging time-based events that display on your experience's main details page. You can schedule up to ten events at a time through the Events Platform, and users have the ability to opt-in to notifications for each event.<br /><br />For more information, see [Events Platform](../../production/promotion/events-platform.md).</td>
 	</tr>
 	<tr>
 		<td>**Player Invite Prompts**</td>
@@ -71,6 +71,6 @@ The following table details promotional methods for avatar items on the platform
 
 ## Social Media
 
-You can direct users to follow you on social media by embedding social media links on your experience's main details page. Social media links connect your audience over the age of 13 to your social media outside of Roblox, which you can use to market updates, monitor community feedback, and promote your experiences. For more information, see [Linking to Social Media](../../production/promotion/audience-engagement.md#linking-to-social-media).
+You can direct users to follow you on social media by embedding social media links on your experience's main details page. Social media links connect your audience over the age of thirteen to your social media outside of Roblox, which you can use to market updates, monitor community feedback, and promote your experiences. For more information, see [Linking to Social Media](../../production/promotion/audience-engagement.md#linking-to-social-media).
 
 <img src="../../assets/promotion/misc/Social-Links-Example.png" width="540" />
